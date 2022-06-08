@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14813" started-at="2022-06-08T16:55:09Z" finished-at="2022-06-08T16:55:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14813" started-at="2022-06-08T16:55:09Z" finished-at="2022-06-08T16:55:23Z">
+      <class name="com.crm.amazonToysTest.ToysTest">
+        <test-method status="PASS" signature="congifBS()[pri:0, instance:com.crm.amazonToysTest.ToysTest@1a968a59]" name="congifBS" is-config="true" duration-ms="15" started-at="2022-06-08T16:55:09Z" finished-at="2022-06-08T16:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.amazonToysTest.ToysTest@1a968a59]" name="configBC" is-config="true" duration-ms="0" started-at="2022-06-08T16:55:09Z" finished-at="2022-06-08T16:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.amazonToysTest.ToysTest@1a968a59]" name="configBM" is-config="true" duration-ms="6115" started-at="2022-06-08T16:55:09Z" finished-at="2022-06-08T16:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="serachToys()[pri:0, instance:com.crm.amazonToysTest.ToysTest@1a968a59]" name="serachToys" duration-ms="8669" started-at="2022-06-08T16:55:15Z" finished-at="2022-06-08T16:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachToys -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.amazonToysTest.ToysTest@1a968a59]" name="configAM" is-config="true" duration-ms="1" started-at="2022-06-08T16:55:23Z" finished-at="2022-06-08T16:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.crm.amazonToysTest.ToysTest@1a968a59]" name="configAC" is-config="true" duration-ms="0" started-at="2022-06-08T16:55:23Z" finished-at="2022-06-08T16:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.crm.amazonToysTest.ToysTest@1a968a59]" name="configAS" is-config="true" duration-ms="0" started-at="2022-06-08T16:55:24Z" finished-at="2022-06-08T16:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.crm.amazonToysTest.ToysTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
